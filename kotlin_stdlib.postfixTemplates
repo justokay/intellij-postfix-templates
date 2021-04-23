@@ -1,0 +1,2 @@
+.with : with
+    NON_VOID → with($expr$) {$END$}
